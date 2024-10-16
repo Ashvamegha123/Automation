@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Amazon Search Test Suite" verbose="1">
+    <test name="Search Tests">
+        <classes>
+            <class name="com.Example.AshwaPractice.Automation.SearchTest"/>
+            <!-- Add more test classes here if needed -->
+        </classes>
+    </test>
+</suite>
